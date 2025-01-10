@@ -1,6 +1,6 @@
 # Generative AI-Driven Intelligent Apps Development
 
-Welcome to my repository! This collection of projects is based on the Deep Learning Specialization offered by [deeplearning.ai](https://www.deeplearning.ai/short-courses/) and building real AI apps by [OpenAI Tutorials](https://platform.openai.com/docs/tutorials). Each project corresponds to a specific course in the specialization or OpenAI tutorial.
+Welcome to my repository! This collection of projects is based on my studies in the exciting field of AI. Some of those projects are based on [deeplearning.ai](https://www.deeplearning.ai/short-courses/) and building real AI apps by [OpenAI Tutorials](https://platform.openai.com/docs/tutorials).
 
 ## Projects
 
@@ -13,15 +13,21 @@ Welcome to my repository! This collection of projects is based on the Deep Learn
 3. **[Answering Customer Questions about Electronic Store Products](Customer-Support-System-Q-and-A):**
    - A web-based customer support assistant system designed to answer inquiries about products available for purchase in an electronic store. The system employs techniques such as Moderation, Prompt Injection Prevention, Classification, Output Checking, and more.
 
-4. **[Chatbot From Files](Chatbot-From-Files):**
-   - A robust web application for a chatbot that interacts with your personal documents and data, providing responses through semantic search. It also includes a file upload feature that allows users to feed the system with information, and advanced features such as translation, voice recognition, and enhanced user question techniques.
-
-5. **[Building Your AI-Based Alexa](Real-time-Speech-to-Text-to-Speech):** 
+4. **[Building Your AI-Based Alexa](Real-time-Speech-to-Text-to-Speech):** 
    - An AI-based "Alexa" in Python, enabling voice interaction with ChatGPT using Whisper for speech-to-text and Google Text to Speech (GTTS) for audio responses.
+  
+5. **[Fine tuning an open AI model](Fine-tunning-with-2k-Drug-Examples):**
+   - It demonstrates fine-tuning a basic LLM (ChatGPT 3.5) using an Excel dataset of remedies and their corresponding maladies. It includes transforming Excel data into a fine-tuning format and testing examples to validate the model's performance.
+  
+6. **[Generate Answers through semantic search with Cohere](Generating_Answers_with_Cohere):**
+   - This project exemplifies the use of semantic search to generate answers. It includes an example of preparing data, embedding indexes for semantic search, and generating answers.
+
+7. **[Rerank answer to enhance the results of key search and semantic search with Cohere](Keyword_and_Semantic_Searches_with_ReRank_Cohere):**
+   - This project demonstrates the use of Rerank technology to enhance the results of key search and semantic search. It provides examples of key search and semantic search in a Dense Retrieval setup, aiming to uncover insights into how Rerank technology improves information retrieval.
 
 ## Getting Started
 
-Follow the instructions in each project's README to set up and run the code. Make sure you have the necessary dependencies installed.
+Follow each project's README instructions to set up and run the code. Make sure you have the necessary dependencies installed.
 
 ## Prerequisites
 
